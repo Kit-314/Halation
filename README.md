@@ -6,7 +6,7 @@
 
 A fast, native macOS photo viewer and editor.
 
-Mac's native image viewer sucks so I made my own, this is it. Open one
+Mac's native image viewer leaves a lot to be desired so I made my own, this is it. Open one
 photo and the arrow keys take you through everything else in the folder,
 full screen if you want, with a proper edit mode for when a shot needs a
 quick fix. Key mapping and dark/light mode can be changed in settings.
