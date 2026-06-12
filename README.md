@@ -6,12 +6,10 @@
 
 A fast, native macOS photo viewer and editor.
 
-I switched from Windows to Mac and couldn't get used to how macOS handles
-looking at photos: open an image and you're stuck with it, with no obvious
-way to flick through the rest of the folder. Halation fixes that. Open one
+Mac's native image viewer sucks so I made my own, this is it. Open one
 photo and the arrow keys take you through everything else in the folder,
 full screen if you want, with a proper edit mode for when a shot needs a
-quick fix.
+quick fix. Key mapping and dark/light mode can be changed in settings.
 
 The name comes from film photography: halation is the soft glow that bleeds
 around bright highlights.
